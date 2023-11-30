@@ -1,7 +1,7 @@
 # ETL_Raizen_ANP
 ETL process to extract data from ANP report, transform and persist in a PostgreSQL database.
 
-Raw Data:
+Raw data:
 - vendas_combustiveis-m3.xlsx
 
 Files after transformation:
